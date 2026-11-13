@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
     // TODO fix this method according to lab pm
 =======

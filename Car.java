@@ -142,6 +142,10 @@ class Volvo240 extends Car {
  class Main {
     public static void main(String[] args) {
         // Test your cars here
+        Car saab = new Saab95(4, 150, Color.red, "Saab95", false );
+        IO.println("Nr of doors: " + saab.getNrDoors());
+        IO.println("Engine power: " + saab.getEnginePower());
+        IO.println("Model name: " + saab.getModelName());
     }
 }
 
